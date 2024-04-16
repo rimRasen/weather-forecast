@@ -10,7 +10,7 @@ body {
   background: #E3F2FD;
 }
 h1 {
-  background: #5372F0;
+  background: #852c9e;
   font-size: 1.75rem;
   text-align: center;
   padding: 18px 0;
@@ -38,7 +38,7 @@ h1 {
 }
 .weather-input input:focus {
   padding: 0 16px;
-  border: 2px solid #5372F0;
+  border: 2px solid #852c9e;
 }
 .weather-input .separator {
   height: 1px;
@@ -66,14 +66,14 @@ h1 {
   border-radius: 4px;
   font-size: 1rem;
   color: #fff;
-  background: #5372F0;
+  background: #852c9e;
   transition: 0.2s ease;
 }
 .weather-input .search-btn:hover {
-  background: #2c52ed;
+  background: #852c9e;
 }
 .weather-input .location-btn {
-  background: #6C757D;
+  background: #852c9e;
 }
 .weather-input .location-btn:hover {
   background: #5c636a;
@@ -83,7 +83,7 @@ h1 {
 }
 .weather-data .current-weather {
   color: #fff;
-  background: #5372F0;
+  background: #852c9e;
   border-radius: 5px;
   padding: 20px 70px 20px 20px;
   display: flex;
@@ -115,7 +115,7 @@ h1 {
 }
 .days-forecast .weather-cards {
   display: flex;
-  gap: 20px;
+  gap: 80px;
 }
 .weather-cards .card {
   color: #fff;
